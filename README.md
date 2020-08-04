@@ -4,6 +4,10 @@
 ![](how-to1.png)
 ![](how-to2.png)
 
+## Todo
+
+* Remove original paragraphs
+
 ## Thanks to
 * [sidpalas](https://community.adobe.com/t5/photoshop/console-log-shim/td-p/9923125?page=1) for error logging to socket
 * [Laubender](https://community.adobe.com/t5/indesign/set-all-text-frame-object-style-to-none/m-p/9913234#M103431) for applying object style
